@@ -55,5 +55,5 @@ app.delete("/projetos/:id", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log("💻 Estamos ar! ✌");
+  console.log("💻 Estamos no ar! ✌");
 });
